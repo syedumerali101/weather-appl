@@ -1,0 +1,58 @@
+export const colors = {
+  greyBorderInput: '#B2BDD0',
+  greyBorderInputrgba: 'rgba(178,189,208,0.3)',
+  white: '#FFFFFF',
+  black: '#000000',
+  red: '#B40707',
+  blackText: '#171819',
+  appBlue: '#2D73E4',
+  lightRed: '#FFCECE',
+  lightgreyTextCheckbox: '#8A8A8A',
+  robotGreyBackground: '#F0F0F0',
+  checkboxGrey: '#9F9F9F',
+  checkboxInnerGrey: '#D9D9D9',
+  greyText: '#757575',
+  privacyDarkGrey: '#6B7A9F',
+  danger: '#AF0B0B',
+  inputBackground: '#F3F3F3',
+  headerBackground: '#1B1E28',
+  hrGrey: '#E4E4E4',
+  inputBorder: 'rgba(178,189,208,0.3)',
+  greyDescText: '#8F8F8F',
+  lightBlue: '#F0F8FF',
+  changeGreyText: '#919191',
+  usernameTextBlack: '#050E37',
+  darkGreyText: '#999999',
+  notificationUserBlackText: '#202020',
+  friendTextGrey: '#585858',
+  rejectRedText: '#B42626',
+  searchGrey: 'rgba(40,48,63,0.28)',
+  disableInputBackground: '#E6E6E6',
+  greyBackgroundComment: '#F1F1F1',
+  commentGreyText: '#666666',
+  greenProgress: '#459804',
+  progressGrey: '#E2E2E2',
+  background: '#5A5A5A',
+  highlightColor: '#808080',
+  // darkB
+};
+export const linearColors = {
+  black: ['rgba(0,0,0,0.42)', 'rgba(0,0,0,0.88)'],
+  white: ['#fff', '#fff'],
+  blackBtn: ['#1D1D1D', '#373737'],
+  defaultRed: ['#CA0420', '#83031C'],
+  defaultRed2: ['#83031C', '#CA0420'],
+  // lightPink:["|"],
+};
+export const themeShadow = {
+  shadowColor: colors.black,
+  shadowOffset: {
+    width: 0,
+    height: 3,
+  },
+  shadowOpacity: 0.14,
+  shadowRadius: 4.65,
+  elevation: 3,
+};
+
+export const cities = ['Karachi', 'New York', 'London', 'Sydney']

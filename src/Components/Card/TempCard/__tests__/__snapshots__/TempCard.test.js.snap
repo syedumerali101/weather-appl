@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`temp card correctly 1`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#2D73E4",
+        "fontSize": 30.682,
+        "marginTop": 26.68,
+      }
+    }
+  />
+  <Text
+    style={
+      {
+        "color": "#171819",
+        "fontSize": 24.012,
+        "marginTop": 6.67,
+      }
+    }
+  />
+  <Text
+    style={
+      {
+        "color": "#171819",
+        "fontSize": 24.012,
+        "marginTop": 6.67,
+      }
+    }
+  />
+</View>
+`;
